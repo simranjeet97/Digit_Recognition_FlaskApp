@@ -11,5 +11,7 @@ MNIST Digit Recognition Using Scikit-Learn and Ensemble Learning and Then Make a
 
 Run the App just by Typing - " python server.py " in Command Prompt.
 
+![Screenshot](screenshot.png)
+
 Author - Simranjeet Singh - Data Scientist - Freelancer
 Linkedin - https://www.linkedin.com/in/simranjeet-singh-ab8071153/
